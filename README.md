@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-Senior Software Engineer with **5+ years** of experience in fintech and banking applications.
+Senior Software Engineer with **5+ years** of experience in fintech, banking and Retail applications.
 
 ### 📊 Key Metrics
 - 💰 **₹4000+ Crores** transaction volume
